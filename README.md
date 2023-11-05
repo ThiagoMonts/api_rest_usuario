@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".github/uniesp.jpg" width="450px" alt="UNIESP"> 
+<img src=".github/uniesp.jpg" width="250px" alt="UNIESP"> 
 </div>
 
 
