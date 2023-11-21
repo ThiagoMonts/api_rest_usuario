@@ -25,7 +25,7 @@ Este repositório foi criado para armazenar a resolução do Trabalho Efetivo Di
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
